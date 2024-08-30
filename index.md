@@ -5,3 +5,7 @@
 ``` cs
 string greeting = "Hello!";
 ```
+
+- [ ] Retrieve the ball
+- [ ] Shoot on goal
+- [ ] Celebrate
